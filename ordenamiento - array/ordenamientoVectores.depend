@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1662333704 source:c:\users\facun\desktop\ordenamientovectores\main.c
+	"ordVec.h"
+
+1662333559 c:\users\facun\desktop\ordenamientovectores\ordvec.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1662333602 source:c:\users\facun\desktop\ordenamientovectores\ordvec.c
+	"ordVec.h"
+

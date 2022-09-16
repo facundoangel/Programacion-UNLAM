@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1661782355 source:c:\users\laboratorios\desktop\vectores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"vectores.h"
+
+1661782329 c:\users\laboratorios\desktop\vectores\vectores.h
+
+1661781713 source:c:\users\laboratorios\desktop\vectores\vectores.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"vectores.h"
+
+1661918915 source:c:\users\facun\onedrive\escritorio\programacion\vectores\main.c
+	"vectores.h"
+
+1661915889 c:\users\facun\onedrive\escritorio\programacion\vectores\vectores.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1661918886 source:c:\users\facun\onedrive\escritorio\programacion\vectores\vectores.c
+	"vectores.h"
+

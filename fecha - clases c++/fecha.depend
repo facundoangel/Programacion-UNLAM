@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1661832091 source:c:\users\facun\onedrive\escritorio\fecha\main.cpp
+	"header.h"
+
+1661832668 source:c:\users\facun\onedrive\escritorio\fecha\fecha.cpp
+	"header.h"
+
+1661831145 c:\users\facun\onedrive\escritorio\fecha\header.h
+	<iostream>
+
+1662818924 source:c:\users\facun\onedrive\escritorio\programacion\fecha\fecha.cpp
+	"header.h"
+
+1662818770 c:\users\facun\onedrive\escritorio\programacion\fecha\header.h
+	<iostream>
+
+1662819091 source:c:\users\facun\onedrive\escritorio\programacion\fecha\main.cpp
+	"header.h"
+
+1663352945 source:c:\users\laboratorios\desktop\programacion-unlam-main\fecha - clases c++\fecha.cpp
+	"header.h"
+
+1663352400 c:\users\laboratorios\desktop\programacion-unlam-main\fecha - clases c++\header.h
+	<iostream>
+	<stdbool.h>
+
+1663352994 source:c:\users\laboratorios\desktop\programacion-unlam-main\fecha - clases c++\main.cpp
+	"header.h"
+

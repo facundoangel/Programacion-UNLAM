@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1661378976 source:c:\users\facun\onedrive\escritorio\practica-punteros\library-dev.c
+	"library.h"
+
+1661378972 source:c:\users\facun\onedrive\escritorio\practica-punteros\main.c
+	"library.h"
+
+1661378881 c:\users\facun\onedrive\escritorio\practica-punteros\library.h
+	<stdio.h>
+	<stdlib.h>
+

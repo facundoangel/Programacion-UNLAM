@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1662744057 source:c:\users\laboratorios\desktop\cadenas\library-cadenas\cadenas.c
+	"cadenas.h"
+	<stdio.h>
+
+1662743514 c:\users\laboratorios\desktop\cadenas\library-cadenas\cadenas.h
+	<stdbool.h>
+
+1662748610 source:c:\users\laboratorios\desktop\repo\training-c\cadenas\library-cadenas\cadenas.c
+	"cadenas.h"
+	<stdio.h>
+
+1662746044 c:\users\laboratorios\desktop\repo\training-c\cadenas\library-cadenas\cadenas.h
+	<stdbool.h>
+
