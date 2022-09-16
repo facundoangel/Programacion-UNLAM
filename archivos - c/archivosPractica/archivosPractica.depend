@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1663357978 source:c:\users\laboratorios\desktop\programacion-unlam-main\archivos - c\archivospractica\archivos.c
+	"archivos.h"
+	<stdio.h>
+
+1663356055 c:\users\laboratorios\desktop\programacion-unlam-main\archivos - c\archivospractica\archivos.h
+	<stdlib.h>
+
+1663357325 source:c:\users\laboratorios\desktop\programacion-unlam-main\archivos - c\archivospractica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"archivos.h"
+
