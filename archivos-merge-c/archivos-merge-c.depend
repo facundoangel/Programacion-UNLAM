@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1663598095 source:c:\users\laboratorios.unlmlab\desktop\fa\archivos-merge-c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"archivos.h"
+
+1663598125 c:\users\laboratorios.unlmlab\desktop\fa\archivos-merge-c\archivos.h
+
+1663598706 source:c:\users\laboratorios.unlmlab\desktop\fa\archivos-merge-c\generadorarchivos.c
+	<stdio.h>
+	"archivos.h"
+	<string.h>
+
