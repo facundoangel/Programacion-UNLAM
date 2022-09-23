@@ -38,6 +38,12 @@ public:
     void establecerMes(int m);
     void establecerAnio(int a);
     bool operator == ( string s);
+    void operator +(int dias);
+    void operator ++();
+    void operator ++(int);
+    void operator --();
+    void operator --(int);
+    void operator -(int dias);
 
 
 };

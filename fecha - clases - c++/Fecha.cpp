@@ -126,6 +126,76 @@
             return f == fechaClase ;
       }
 
+          void Fecha::operator +(int dias){
+
+        this->diaRel+=dias;
+        this->obtenerFechaNormal();
+        this->mostrarFechaNormal();
+    }
+
+    void Fecha::operator ++(){
+
+        this->diaRel+=1;
+        this->obtenerFechaNormal();
+        this->mostrarFechaNormal();
+    }
+
+     void Fecha::operator ++(int){
+
+        this->diaRel+=1;
+        this->obtenerFechaNormal();
+        this->mostrarFechaNormal();
+    }
+
+     void Fecha::operator --(){
+
+        int resultado = this->diaRel - 1;
+        if(resultado<=0){
+            cout << "=======================================" << endl;
+            cout << "ERROR: NO SE PUEDE RESTAR MAS DÍAS" << endl;
+            cout << "=======================================" << endl;
+            return;
+
+        }
+        this->diaRel-=1;
+        this->obtenerFechaNormal();
+        this->mostrarFechaNormal();
+    }
+
+      void Fecha::operator --(int){
+
+        int resultado = this->diaRel - 1;
+        if(resultado<=0){
+
+            cout << "=======================================" << endl;
+            cout << "ERROR: NO SE PUEDE RESTAR MAS DÍAS" << endl;
+            cout << "=======================================" << endl;
+            return;
+        }
+        this->diaRel-=1;
+        this->obtenerFechaNormal();
+        this->mostrarFechaNormal();
+
+    }
+
+    void Fecha::operator -(int dias){
+
+        int resultado = this->diaRel - dias;
+        if(resultado<=0){
+
+            cout << "=======================================" << endl;
+            cout << "ERROR: NO SE PUEDE RESTAR MAS DÍAS" << endl;
+            cout << "=======================================" << endl;
+            return;
+        }
+
+        this->diaRel-=dias;
+        this->obtenerFechaNormal();
+
+        this->mostrarFechaNormal();
+
+    }
+
 
 
       ostream& operator << (ostream& o,Fecha& f){

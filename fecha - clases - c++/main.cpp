@@ -9,6 +9,8 @@ int main()
 
 
     Fecha f(12,2,2019);
+    f+9;
+    f-4;
     //f.sumarFecha(254);
     //f.obtenerFechaNormal();
     f.mostrarFechaNormal();
