@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include "archivos.h"
 #include <string.h>
 
@@ -8,18 +9,21 @@ void genrarArchivos()
     FILE* arcMov;
 
     PRODUCTO productos[] = {
-        {"MAN","Manzana",150.90,80},
-        {"PER","Pera",150.90,80},
-        {"NAR","Naranja",150.90,80},
         {"BAN","Banana",150.90,80},
+        {"MAN","Manzana",150.90,80},
+        {"NAR","Naranja",150.90,80},
+        {"PER","Pera",150.90,80},
         {"ZAN","Zandia",150.90,80}
 
     };
 
     MOVIMIENTO movimientos[] = {
-        {"MAN",20},
-        {"PER",-10},
+        {"BAN",90},
+        {"MAN",-10},
+        {"MAN",-30},
         {"NAR",40},
+        {"PER",-10},
+
 
     };
 
@@ -30,7 +34,7 @@ void genrarArchivos()
     arcProd =fopen("Productos.dat","wb");
 
 
-    fwrite(productos,sizeof(PRODUCTO),5,arcProd);
+    fwrite(productos,sizeof(PRODUCTO),sizeof(productos)/sizeof(PRODUCTO),arcProd);
 
 
     fclose(arcProd);
@@ -39,7 +43,7 @@ void genrarArchivos()
     arcMov = fopen("Movimientos.dat","wb");
 
 
-    fwrite(movimientos,sizeof(MOVIMIENTO),3,arcMov);
+    fwrite(movimientos,sizeof(MOVIMIENTO),sizeof(movimientos)/sizeof(MOVIMIENTO),arcMov);
 
 
     fclose(arcMov);
@@ -148,13 +152,13 @@ void mostrarArchivoTMP(){
 
 }
 
-void mergeAlgoritmo(char* prod,char* mov)
+void mergeAlgoritmo1(char* prod,char* mov)
 {
     FILE* arcProd;
     FILE* arcMov;
     FILE* tmpProd;
 
-    PRODUCTO prodLeido, prodNuevo;
+    PRODUCTO prodLeido={"","",0,0}, prodNuevo;
     MOVIMIENTO movLeido;
 
     int comp;
@@ -174,33 +178,53 @@ void mergeAlgoritmo(char* prod,char* mov)
     //COMIENZO DE LA ITERACIÓN SOBRE LOS ARCHIVOS
     fread(&prodLeido,sizeof(PRODUCTO),1,arcProd);
     fread(&movLeido,sizeof(MOVIMIENTO),1,arcMov);
-    fread(&movLeido,sizeof(MOVIMIENTO),1,arcMov);
 
 
 
     while(!feof(arcMov) && !feof(arcProd))
     {
         comp = strcmp(prodLeido.cod,movLeido.cod);
+        //printf("\nresult comp: %d",comp);
 
         if(comp<0){
-            printf("\n AGREGAR PRODUCTO A ARCHIVO TEMPORAL");
+
             strcpy(prodNuevo.cod,prodLeido.cod);
             strcpy(prodNuevo.descripcion,prodLeido.descripcion);
-            //prodNuevo.cant+= prodLeido.cant;
+            prodNuevo.cant= prodLeido.cant;
             prodNuevo.precio = prodLeido.precio;
             fwrite(&prodNuevo,sizeof(PRODUCTO),1,tmpProd);
+            fread(&prodLeido,sizeof(PRODUCTO),1,arcProd);
+
         }
 
         if(comp==0){
-            printf("\n COINCIDENCIA DE CODIGOS");
+            //printf("\n COINCIDENCIA DE CODIGOS");
+            prodLeido.cant+=movLeido.cant;
+            if(prodLeido.cant<0) prodLeido.cant = 0;
+            fread(&movLeido,sizeof(MOVIMIENTO),1,arcMov);
         }
 
         if(comp>0){
-            printf("\n PRODUCTO YA CARGADO");
+            prodLeido.cant=0;
+            fread(&movLeido,sizeof(MOVIMIENTO),1,arcMov);
+
+
         }
 
-        break;
 
+
+    }
+
+
+
+    while(!feof(arcProd)){
+
+        strcpy(prodNuevo.cod,prodLeido.cod);
+        strcpy(prodNuevo.descripcion,prodLeido.descripcion);
+        prodNuevo.cant= prodLeido.cant;
+        prodNuevo.precio = prodLeido.precio;
+        fwrite(&prodNuevo,sizeof(PRODUCTO),1,tmpProd);
+        fread(&prodLeido,sizeof(PRODUCTO),1,arcProd);
     }
 
 
@@ -210,7 +234,8 @@ void mergeAlgoritmo(char* prod,char* mov)
     fclose(tmpProd);
 
 
-    //remove(arcProd)
+    remove(prod);
+    rename("temporario.tmp",prod);
 
 
 }

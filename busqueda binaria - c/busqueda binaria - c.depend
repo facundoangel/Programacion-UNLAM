@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1663907207 source:c:\users\facun\onedrive\escritorio\programacion-unlam\busqueda binaria - c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"busqBinaria.h"
+
+1663906034 c:\users\facun\onedrive\escritorio\programacion-unlam\busqueda binaria - c\busqbinaria.h
+
+1663907191 source:c:\users\facun\onedrive\escritorio\programacion-unlam\busqueda binaria - c\busqbinaria.c
+	"busqBinaria.h"
+	<stdlib.h>
+	<stdio.h>
+

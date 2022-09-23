@@ -8,10 +8,10 @@ int main()
     mostrarArchivos();
 
 
-    mergeAlgoritmo("productos.dat","movimientos.dat");
-
+    mergeAlgoritmo1("productos.dat","movimientos.dat");
+    printf("\n\n==================SALIDA=============================================================\n\n");
+    //mostrarArchivos();
     mostrarArchivos();
-    mostrarArchivoTMP();
 
 
     return 0;

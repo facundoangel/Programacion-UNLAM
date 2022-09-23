@@ -21,6 +21,6 @@ typedef struct
 void genrarArchivos();
 void mostrarArchivos();
 void mostrarArchivoTMP();
-void mergeAlgoritmo(char* prod,char* mov);
+void mergeAlgoritmo1(char* prod,char* mov);
 
 #endif // ARCHIVOS_H_INCLUDED
