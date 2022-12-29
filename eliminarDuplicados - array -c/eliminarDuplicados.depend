@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1662561232 source:c:\users\facun\onedrive\escritorio\programacion\eliminarduplicados\library.c
+	"header.h"
+
+1662559040 c:\users\facun\onedrive\escritorio\programacion\eliminarduplicados\header.h
+
+1662561253 source:c:\users\facun\onedrive\escritorio\programacion\eliminarduplicados\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+

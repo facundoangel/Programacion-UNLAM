@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1666997003 source:c:\users\facun\onedrive\escritorio\programacion-unlam\tdalistacircular\testlistacircular\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../TDAListaCircular/ListaCircular.h"
+
+1666992661 c:\users\facun\onedrive\escritorio\programacion-unlam\tdalistacircular\tdalistacircular\listacircular.h
+	<stdbool.h>
+	<stdlib.h>
+

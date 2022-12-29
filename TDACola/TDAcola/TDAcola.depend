@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1666106071 source:c:\users\facun\onedrive\escritorio\programacion-unlam\cola - c\tdacola\tdacola.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"TDAColaImplementacion.h"
+	"TDAcola.h"
+
+1666095995 c:\users\facun\onedrive\escritorio\programacion-unlam\cola - c\tdacola\tdacolaimplementacion.h
+
+1665975461 c:\users\facun\onedrive\escritorio\programacion-unlam\cola - c\tdacola\tdacola.h
+	"TDAColaImplementacion.h"
+	<stdbool.h>
+
+1666107018 source:c:\users\facun\onedrive\escritorio\programacion-unlam\tdacola\tdacola\tdacola.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"TDAColaImplementacion.h"
+	"TDAcola.h"
+
+1666095995 c:\users\facun\onedrive\escritorio\programacion-unlam\tdacola\tdacola\tdacolaimplementacion.h
+
+1666107055 c:\users\facun\onedrive\escritorio\programacion-unlam\tdacola\tdacola\tdacola.h
+	"TDAColaImplementacion.h"
+	<stdbool.h>
+
+1669250047 source:c:\users\facun\onedrive\escritorio\programacion-unlam-main\tdacola\tdacola\tdacola.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"TDAColaImplementacion.h"
+	"TDAcola.h"
+
+1669250047 c:\users\facun\onedrive\escritorio\programacion-unlam-main\tdacola\tdacola\tdacolaimplementacion.h
+
+1669250047 c:\users\facun\onedrive\escritorio\programacion-unlam-main\tdacola\tdacola\tdacola.h
+	"TDAColaImplementacion.h"
+	<stdbool.h>
+

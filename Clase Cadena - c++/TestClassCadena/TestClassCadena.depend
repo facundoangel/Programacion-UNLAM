@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1664636093 source:c:\users\laboratorios.unlmlab\desktop\fa\clase cadena - c++\testclasscadena\main.cpp
+	<iostream>
+	"../ClassCadena/Cadena.h"
+
+1664635663 c:\users\laboratorios.unlmlab\desktop\fa\clase cadena - c++\classcadena\cadena.h
+	<iostream>
+

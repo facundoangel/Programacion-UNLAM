@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1666619717 source:c:\users\laboratorios.unlmlab\desktop\fa\testpilacircular\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"../pilaCircular/pilaCircular.h"
+
+1666617305 c:\users\laboratorios.unlmlab\desktop\fa\pilacircular\pilacircular.h
+	<stdbool.h>
+	<stdlib.h>
+
+1666621469 source:c:\users\laboratorios.unlmlab\desktop\fa\tdapilacircular\testpilacircular\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"../pilaCircular/pilaCircular.h"
+
+1666617305 c:\users\laboratorios.unlmlab\desktop\fa\tdapilacircular\pilacircular\pilacircular.h
+	<stdbool.h>
+	<stdlib.h>
+
+1666669604 source:c:\users\facun\onedrive\escritorio\programacion-unlam\tdapilacircular\testpilacircular\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"../pilaCircular/pilaCircular.h"
+
+1666667560 c:\users\facun\onedrive\escritorio\programacion-unlam\tdapilacircular\pilacircular\pilacircular.h
+	<stdbool.h>
+	<stdlib.h>
+

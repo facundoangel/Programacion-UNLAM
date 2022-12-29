@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1663357978 source:c:\users\laboratorios\desktop\programacion-unlam-main\archivos - c\archivospractica\archivos.c
+	"archivos.h"
+	<stdio.h>
+
+1663356055 c:\users\laboratorios\desktop\programacion-unlam-main\archivos - c\archivospractica\archivos.h
+	<stdlib.h>
+
+1663357325 source:c:\users\laboratorios\desktop\programacion-unlam-main\archivos - c\archivospractica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"archivos.h"
+
+1667055408 source:c:\users\facun\onedrive\escritorio\programacion-unlam\archivos - c\practica archivos #1 - c\archivospractica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"archivos.h"
+
+1663899943 c:\users\facun\onedrive\escritorio\programacion-unlam\archivos - c\practica archivos #1 - c\archivospractica\archivos.h
+	<stdlib.h>
+
+1667055433 source:c:\users\facun\onedrive\escritorio\programacion-unlam\archivos - c\practica archivos #1 - c\archivospractica\archivos.c
+	"archivos.h"
+	<stdio.h>
+

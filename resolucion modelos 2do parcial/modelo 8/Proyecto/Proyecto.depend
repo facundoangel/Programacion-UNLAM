@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1669149471 source:c:\users\laboratorios\desktop\sanzeliseo44690195\proyecto\main.c
+	"Cabecera.h"
+
+1669149134 c:\users\laboratorios\desktop\sanzeliseo44690195\proyecto\cabecera.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1669149120 source:c:\users\laboratorios\desktop\sanzeliseo44690195\proyecto\primitivas.c
+	"Cabecera.h"
+
+1669149386 source:c:\users\laboratorios\desktop\sanzeliseo44690195\proyecto\funciones.c
+	"Cabecera.h"
+
+1669751530 source:c:\users\facun\downloads\sanzeliseo44690195\sanzeliseo44690195\proyecto\funciones.c
+	"Cabecera.h"
+
+1669751540 c:\users\facun\downloads\sanzeliseo44690195\sanzeliseo44690195\proyecto\cabecera.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1669752388 source:c:\users\facun\downloads\sanzeliseo44690195\sanzeliseo44690195\proyecto\main.c
+	"Cabecera.h"
+
+1669752425 source:c:\users\facun\downloads\sanzeliseo44690195\sanzeliseo44690195\proyecto\primitivas.c
+	"Cabecera.h"
+
+1669767508 source:c:\users\facun\downloads\p2-2022-c2_p2_ttarde_lotes\proyecto\funciones.c
+	"Cabecera.h"
+
+1669764598 c:\users\facun\downloads\p2-2022-c2_p2_ttarde_lotes\proyecto\cabecera.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1669764655 source:c:\users\facun\downloads\p2-2022-c2_p2_ttarde_lotes\proyecto\main.c
+	"Cabecera.h"
+
+1669833525 source:c:\users\facun\downloads\p2-2022-c2_p2_ttarde_lotes\proyecto\primitivas.c
+	"Cabecera.h"
+

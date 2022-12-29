@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1666321167 source:c:\users\facun\onedrive\escritorio\programacion-unlam\lista - c\testlista\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../TDALista/TDALista.h"
+	"../TDALista/TDAListaImpl.h"
+
+1666320651 c:\users\facun\onedrive\escritorio\programacion-unlam\lista - c\tdalista\tdalista.h
+	"TDAListaImpl.h"
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+
+1666310937 c:\users\facun\onedrive\escritorio\programacion-unlam\lista - c\tdalista\tdalistaimpl.h
+

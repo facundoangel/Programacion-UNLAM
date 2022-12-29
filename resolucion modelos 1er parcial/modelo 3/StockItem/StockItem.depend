@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1667052445 source:c:\users\facun\onedrive\escritorio\programacion-unlam\resolucion modelos 1er parcial\modelo 3\stockitem\stockitem.cpp
+	<iostream>
+	"StockItem.h"
+	<queue>
+
+1667052444 c:\users\facun\onedrive\escritorio\programacion-unlam\resolucion modelos 1er parcial\modelo 3\stockitem\stockitem.h
+	<string.h>
+

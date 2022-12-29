@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1666410867 source:c:\users\facun\onedrive\escritorio\programacion-unlam\resolucion modelos 1er parcial\modelo 1\testvideoclub\main.cpp
+	<iostream>
+	"../videoClub/Videojuego.h"
+
+1666411634 c:\users\facun\onedrive\escritorio\programacion-unlam\resolucion modelos 1er parcial\modelo 1\videoclub\videojuego.h
+

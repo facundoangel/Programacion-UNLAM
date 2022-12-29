@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1671027038 source:c:\users\facun\onedrive\escritorio\programacion-unlam-main\practica excepcioones - c++\customexception.cpp
+	"customException.h"
+
+1671027038 c:\users\facun\onedrive\escritorio\programacion-unlam-main\practica excepcioones - c++\customexception.h
+	<string.h>
+
+1671027091 source:c:\users\facun\onedrive\escritorio\programacion-unlam-main\practica excepcioones - c++\main.cpp
+	<iostream>
+	"Numero.h"
+
+1671026691 c:\users\facun\onedrive\escritorio\programacion-unlam-main\practica excepcioones - c++\numero.h
+	<iostream>
+	"customException.h"
+
+1671027065 source:c:\users\facun\onedrive\escritorio\programacion-unlam-main\practica excepcioones - c++\numero.cpp
+	"Numero.h"
+

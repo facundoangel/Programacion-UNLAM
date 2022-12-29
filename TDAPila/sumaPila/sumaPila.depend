@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1665067269 source:c:\users\facun\onedrive\escritorio\programacion-unlam\pila - c\sumapila\suma.c
+	"suma.h"
+
+1665067141 source:c:\users\facun\onedrive\escritorio\programacion-unlam\pila - c\sumapila\main.c
+	<stdio.h>
+	<stdlib.h>
+	"suma.h"
+
+1665028171 c:\users\facun\onedrive\escritorio\programacion-unlam\pila - c\tdapila\tdapila.h
+	<stdbool.h>
+	<stdlib.h>
+	"TDAPilaImplEstatica.h"
+	"TDAPilaImplEstatica.h"
+
+1664880529 c:\users\facun\onedrive\escritorio\programacion-unlam\pila - c\tdapila\tdapilaimplestatica.h
+	"TDAPila.h"
+
+1665064573 c:\users\facun\onedrive\escritorio\programacion-unlam\pila - c\sumapila\suma.h
+	"../TDAPila/TDAPila.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+

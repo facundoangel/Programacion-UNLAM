@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1670899602 source:c:\users\facun\onedrive\escritorio\programacion-unlam-main\resolución modelos finales\modelo 2\modelo2\main.c
+	<stdio.h>
+	<string.h>
+	"TDALista.h"
+
+1670899115 c:\users\facun\onedrive\escritorio\programacion-unlam-main\resolución modelos finales\modelo 2\modelo2\tdalista.h
+	<stdbool.h>
+	<stdlib.h>
+	<stdio.h>
+	<memory.h>
+
+1670899210 source:c:\users\facun\onedrive\escritorio\programacion-unlam-main\resolución modelos finales\modelo 2\modelo2\tdalista.c
+	"TDALista.h"
+

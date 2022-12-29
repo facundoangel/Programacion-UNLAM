@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1666362455 source:c:\users\facun\onedrive\escritorio\programacion-unlam\resolucion modelos 1er parcial\modelo 1\ofuscamiento\ofusc.c
+	<string.h>
+	"ofusc.h"
+	<stdbool.h>
+	<stdio.h>
+
+1666358123 c:\users\facun\onedrive\escritorio\programacion-unlam\resolucion modelos 1er parcial\modelo 1\ofuscamiento\ofusc.h
+	<stdbool.h>
+

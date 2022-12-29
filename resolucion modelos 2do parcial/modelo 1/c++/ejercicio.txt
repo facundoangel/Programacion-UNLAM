@@ -1,0 +1,38 @@
+Se desea desarrollar un sistema para una empresa que vende Electrodomesticos. Se requiere una clase llamada Stockitem para este sistema. Donde, dicha clase estará compuesta por los siguientes atributos:
+
+·         int Id;
+·         char * nombre;
+·         float precio;
+·         int nArticulos;
+
+ 
+
+La clase StockItemOferta es una clase derivada de StockItem que agrega :
+
+·         Fecha desde;
+·         Fecha hasta; //durante las cuales la oferta estará vigente y 
+·         float descuento; //que es el porcentaje de descuento
+
+crear un método polimórfico “mostrar()” que muestre todos los elementos de las clases StockItem y StockItemOferta y demuestre en el main su uso de forma polimórfica. 
+
+Se debe crear el archivo .h y .cpp de las Clases Fecha, StockItem y StockItemOferta para que funcione el siguiente programa:
+ 
+ 
+ 
+     Stockitem s1;
+     s1.mostrar(); // va a mostrar el id = 0 , nombre = NULL, precio =0.0 y   nArticulos = 0;
+     cout << s1 << endl;
+     Stockitem s2(1231,"Lavarropas",5676,30);
+     cout<<s2<<endl;
+     char nom[500]="Aspiradora";
+     Fecha desde(5,10,2022);
+     Fecha hasta(15,10,2022);
+     StockitemOferta s3(1256,nom, 12315,10, desde,hasta, 0.5);
+     s3++; // suma 1 a la cantidad del stock
+     cout << s3.precioDescuento()<<endl; // muestra todos los datos del producto, las fechas 
+     //durante las cuales está en oferta y el precio con el descuento
+     cout<<endl<<" Mostrar Electrodomesticos en forma polimorfica "<<endl;
+     //colocar el código de mostrar polimorfica aquí
+     cin>>s1;
+     cout<<s1;
+     return 0;

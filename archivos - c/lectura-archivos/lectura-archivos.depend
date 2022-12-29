@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1664203182 source:c:\users\laboratorios.unlmlab\desktop\fa\lectura-archivos\library.c
+	"txtABin.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1664203345 c:\users\laboratorios.unlmlab\desktop\fa\lectura-archivos\txtabin.h
+	<stdbool.h>
+
+1664200550 source:c:\users\laboratorios.unlmlab\desktop\fa\lectura-archivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"txtABin.h"
+
+1664592675 source:c:\users\facun\onedrive\escritorio\programacion-unlam\archivos - c\lectura-archivos\library.c
+	"txtABin.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1664591401 c:\users\facun\onedrive\escritorio\programacion-unlam\archivos - c\lectura-archivos\txtabin.h
+	<stdbool.h>
+
+1664592042 source:c:\users\facun\onedrive\escritorio\programacion-unlam\archivos - c\lectura-archivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"txtABin.h"
+

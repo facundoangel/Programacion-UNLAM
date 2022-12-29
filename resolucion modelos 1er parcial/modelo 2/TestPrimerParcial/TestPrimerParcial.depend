@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1666982477 source:c:\users\facun\onedrive\escritorio\programacion-unlam\resolucion modelos 1er parcial\modelo 2\testprimerparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	"../primerParcial/enunciados.h"
+
+1666982164 c:\users\facun\onedrive\escritorio\programacion-unlam\resolucion modelos 1er parcial\modelo 2\primerparcial\enunciados.h
+	<stdbool.h>
+

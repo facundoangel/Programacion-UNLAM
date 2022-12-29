@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1668139981 source:c:\users\facun\onedrive\escritorio\programacion-unlam\tdaarbol\tdaarbol\arbol.c
+	"arbol.h"
+
+1668137553 c:\users\facun\onedrive\escritorio\programacion-unlam\tdaarbol\tdaarbol\arbol.h
+	<stdbool.h>
+	<stdio.h>
+	<memory.h>
+	<stdlib.h>
+	<math.h>
+
+1669250045 source:c:\users\facun\onedrive\escritorio\programacion-unlam-main\tdaarbol\tdaarbol\arbol.c
+	"arbol.h"
+
+1669250045 c:\users\facun\onedrive\escritorio\programacion-unlam-main\tdaarbol\tdaarbol\arbol.h
+	<stdbool.h>
+	<stdio.h>
+	<memory.h>
+	<stdlib.h>
+	<math.h>
+

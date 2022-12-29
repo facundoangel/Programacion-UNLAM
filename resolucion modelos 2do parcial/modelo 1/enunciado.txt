@@ -1,0 +1,26 @@
+Dado un archivo de texto “notas.csv” que contiene los datos de los alumnos de un curso de programación y sus notas. La cantidad de notas puede variar entre dos y cinco notas. Cada registro contiene los datos de un único alumno. Cada registro tiene:
+
+·         dni: nro. entero
+·         apyn: cadena de 30
+·         n1 – n5: flotante (la cantidad de notas varia entre 1 y 5)
+
+El archivo de texto está desordenado y puede contener varios registros para un mismo alumno. Se escribe un nuevo registro cada vez que el alumno agrega alguna nota, ejemplo: puede aparecer:
+
+1234567, Juan Perez, 5
+ 1234567, Juan Perez, 5,7
+ 1234567, Juan Perez, 5,7,2.33
+
+Se pide:
+
+1) generar una lista doblemente enlazada que contenga: dni, apyn y condición final de cada alumno. Esta lista debe tener los alumnos en el mismo orden que van apareciendo en el archivo de notas.
+
+Condición Final: 
+
+·         A: ausente (menos de dos notas)
+·         D: Desaprobado (promedio menor a 4)
+·         C: Cursada aprobada (promedio entre 4 y menor que 7)
+·         P: Promocionado (promedio de 7 o mayor)
+
+2) se pide generar un archivo binario que contenga la condición final de cada alumno luego de procesar todas las notas. Este archivo debe estar ordenado por “Condición Final” y “dni”
+
+Optimizar el uso de la memoria. No debe quedar nada en memoria.

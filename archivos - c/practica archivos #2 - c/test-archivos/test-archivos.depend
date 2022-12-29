@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1664168779 source:c:\users\facun\onedrive\escritorio\programacion-unlam\archivos - c\practica archivos #2 - c\test-archivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../library-archivos/library.h"
+	<stdbool.h>
+
+1664163155 c:\users\facun\onedrive\escritorio\programacion-unlam\archivos - c\practica archivos #2 - c\library-archivos\library.h
+	<stdbool.h>
+

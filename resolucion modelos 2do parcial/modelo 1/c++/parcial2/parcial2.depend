@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1668357090 source:c:\users\facun\onedrive\escritorio\programacion-unlam\resolucion modelos 2do parcial\modelo 1\c++\parcial2\main.cpp
+	<iostream>
+	<StockItem.h>
+	<StockAbstract.h>
+	<StockItemOferta.h>
+
+1668357157 c:\users\facun\onedrive\escritorio\programacion-unlam\resolucion modelos 2do parcial\modelo 1\c++\parcial2\include\stockitem.h
+	<iostream>
+	<string.h>
+	"StockAbstract.h"
+
+1667918883 c:\users\facun\onedrive\escritorio\programacion-unlam\resolucion modelos 2do parcial\modelo 1\c++\parcial2\include\stock.h
+
+1668356963 c:\users\facun\onedrive\escritorio\programacion-unlam\resolucion modelos 2do parcial\modelo 1\c++\parcial2\include\stockitemoferta.h
+	<iostream>
+	<StockItem.h>
+	<Fecha.h>
+	<Cadena.h>
+
+1668356988 source:c:\users\facun\onedrive\escritorio\programacion-unlam\resolucion modelos 2do parcial\modelo 1\c++\parcial2\src\stockitem.cpp
+	"StockItem.h"
+	<queue>
+
+1668356958 source:c:\users\facun\onedrive\escritorio\programacion-unlam\resolucion modelos 2do parcial\modelo 1\c++\parcial2\src\stockitemoferta.cpp
+	"StockItemOferta.h"
+	<string>
+
+1667997532 c:\users\facun\onedrive\escritorio\programacion-unlam\resolucion modelos 2do parcial\modelo 1\c++\parcial2\include\fecha.h
+	<iostream>
+
+1667996766 source:c:\users\facun\onedrive\escritorio\programacion-unlam\resolucion modelos 2do parcial\modelo 1\c++\parcial2\src\fecha.cpp
+	"Fecha.h"
+
+1667997174 source:c:\users\facun\onedrive\escritorio\programacion-unlam\resolucion modelos 2do parcial\modelo 1\c++\parcial2\src\cadena.cpp
+	"Cadena.h"
+
+1667996725 c:\users\facun\onedrive\escritorio\programacion-unlam\resolucion modelos 2do parcial\modelo 1\c++\parcial2\include\cadena.h
+	<string.h>
+	<iostream>
+
+1668356967 c:\users\facun\onedrive\escritorio\programacion-unlam\resolucion modelos 2do parcial\modelo 1\c++\parcial2\include\stockabstract.h
+

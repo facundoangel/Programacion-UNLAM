@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="P1" />
+	<File name="..\Nodo\NodoD.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\TDAListaImplDinamicaDoble\TDAListaImplDinamicaDoble.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\TDALista\TDALista.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1087" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="..\Comun\Comun.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="418" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1613" topLine="49" />
+		</Cursor>
+		<Folding>
+			<Collapse line="102" />
+			<Collapse line="128" />
+			<Collapse line="136" />
+			<Collapse line="144" />
+			<Collapse line="156" />
+			<Collapse line="174" />
+			<Collapse line="201" />
+			<Collapse line="238" />
+			<Collapse line="260" />
+			<Collapse line="312" />
+			<Collapse line="332" />
+			<Collapse line="353" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>

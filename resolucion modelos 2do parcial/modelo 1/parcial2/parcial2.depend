@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1667834966 source:c:\users\facun\onedrive\escritorio\programacion-unlam\resolucion modelos 2do parcial\modelo 1\parcial2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"parcail2.h"
+	"../../../TDAListaDobleEnlace/TDAListaDobleEnlace/ListaDobleEnlace.h"
+
+1667870579 c:\users\facun\onedrive\escritorio\programacion-unlam\resolucion modelos 2do parcial\modelo 1\parcial2\parcail2.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"../../../TDAListaDobleEnlace/TDAListaDobleEnlace/ListaDobleEnlace.h"
+
+1667833642 c:\users\facun\onedrive\escritorio\programacion-unlam\tdalistadobleenlace\tdalistadobleenlace\listadobleenlace.h
+	<memory.h>
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+
+1667871325 source:c:\users\facun\onedrive\escritorio\programacion-unlam\resolucion modelos 2do parcial\modelo 1\parcial2\parcial2.c
+	"parcail2.h"
+

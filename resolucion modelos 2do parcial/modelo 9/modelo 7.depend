@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1671214566 source:c:\users\facun\onedrive\escritorio\programacion-unlam-main\resolucion modelos 1er parcial\modelo 7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Arbol.h"
+	"Lista.h"
+
+1671208908 source:c:\users\facun\onedrive\escritorio\programacion-unlam-main\resolucion modelos 1er parcial\modelo 7\arbol.c
+	"Arbol.h"
+
+1671208501 c:\users\facun\onedrive\escritorio\programacion-unlam-main\resolucion modelos 1er parcial\modelo 7\arbol.h
+	<stdlib.h>
+	<stdbool.h>
+	<memory.h>
+	"comun.h"
+	<stdio.h>
+
+1671072651 c:\users\facun\onedrive\escritorio\programacion-unlam-main\resolucion modelos 1er parcial\modelo 7\comun.h
+
+1671208901 source:c:\users\facun\onedrive\escritorio\programacion-unlam-main\resolucion modelos 1er parcial\modelo 7\lista.c
+	"Lista.h"
+
+1671158518 c:\users\facun\onedrive\escritorio\programacion-unlam-main\resolucion modelos 1er parcial\modelo 7\lista.h
+	<stdlib.h>
+	<stdbool.h>
+	<memory.h>
+	"comun.h"
+	<stdio.h>
+

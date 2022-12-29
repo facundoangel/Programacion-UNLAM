@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1664808338 source:c:\users\laboratorios.unlmlab\desktop\fa\testpila\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../TDAPila/TDAPila.h"
+
+1664808502 c:\users\laboratorios.unlmlab\desktop\fa\tdapila\tdapila.h
+	<stdbool.h>
+	<stdlib.h>
+	"TDAPilaImplEstatica.h"
+
+1664803184 c:\users\laboratorios.unlmlab\desktop\fa\tdapila\tdapilaimplestatica.h
+	"TDAPila.h"
+
+1665632210 source:c:\users\facun\onedrive\escritorio\programacion-unlam\pila - c\testpila\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../TDAPila/TDAPila.h"
+
+1665632153 c:\users\facun\onedrive\escritorio\programacion-unlam\pila - c\tdapila\tdapila.h
+	<stdbool.h>
+	<stdlib.h>
+	"TDAPilaImplEstatica.h"
+	"TDAPilaImplDinamica.h"
+
+1665629400 c:\users\facun\onedrive\escritorio\programacion-unlam\pila - c\tdapila\tdapilaimplestatica.h
+	"TDAPila.h"
+
+1665629391 c:\users\facun\onedrive\escritorio\programacion-unlam\pila - c\tdapila\tdapilaimpldinamica.h
+

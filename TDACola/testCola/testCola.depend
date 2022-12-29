@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1666144526 source:c:\users\facun\onedrive\escritorio\programacion-unlam\cola - c\testcola\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"../TDAcolaDin/TDAcolaDin.h"
+
+1666107055 c:\users\facun\onedrive\escritorio\programacion-unlam\cola - c\tdacola\tdacola.h
+	"TDAColaImplementacion.h"
+	<stdbool.h>
+
+1666095995 c:\users\facun\onedrive\escritorio\programacion-unlam\cola - c\tdacola\tdacolaimplementacion.h
+
+1666144442 c:\users\facun\onedrive\escritorio\programacion-unlam\cola - c\tdacoladin\tdacoladin.h
+	"TDAColaDinImpl.h"
+	<stdbool.h>
+
+1666141223 c:\users\facun\onedrive\escritorio\programacion-unlam\cola - c\tdacoladin\tdacoladinimpl.h
+
+1669250047 source:c:\users\facun\onedrive\escritorio\programacion-unlam-main\tdacola\testcola\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"../TDAcolaDin/TDAcolaDin.h"
+
+1669250046 c:\users\facun\onedrive\escritorio\programacion-unlam-main\tdacola\tdacoladin\tdacoladin.h
+	"TDAColaDinImpl.h"
+	<stdbool.h>
+
+1669250046 c:\users\facun\onedrive\escritorio\programacion-unlam-main\tdacola\tdacoladin\tdacoladinimpl.h
+

@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1666311036 source:c:\users\facun\onedrive\escritorio\programacion-unlam\lista - c\tdalista\tdalistaimpl.c
+	"TDALista.h"
+	"TDAListaImpl.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+
+1666311186 c:\users\facun\onedrive\escritorio\programacion-unlam\lista - c\tdalista\tdalista.h
+	"TDAListaImpl.h"
+
+1666310937 c:\users\facun\onedrive\escritorio\programacion-unlam\lista - c\tdalista\tdalistaimpl.h
+
+1669250054 source:c:\users\facun\onedrive\escritorio\programacion-unlam-main\lista - c\tdalista\tdalistaimpl.c
+	"TDALista.h"
+	"TDAListaImpl.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+
+1669250054 c:\users\facun\onedrive\escritorio\programacion-unlam-main\lista - c\tdalista\tdalista.h
+	"TDAListaImpl.h"
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+
+1669250054 c:\users\facun\onedrive\escritorio\programacion-unlam-main\lista - c\tdalista\tdalistaimpl.h
+

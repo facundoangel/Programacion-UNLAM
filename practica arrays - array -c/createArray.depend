@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1661377563 source:c:\users\facun\onedrive\escritorio\createarray\library.c
+	"header.h"
+
+1661377540 c:\users\facun\onedrive\escritorio\createarray\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1661377577 source:c:\users\facun\onedrive\escritorio\createarray\main.c
+	"header.h"
+

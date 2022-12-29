@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1662333704 source:c:\users\facun\desktop\ordenamientovectores\main.c
+	"ordVec.h"
+
+1662333559 c:\users\facun\desktop\ordenamientovectores\ordvec.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1662333602 source:c:\users\facun\desktop\ordenamientovectores\ordvec.c
+	"ordVec.h"
+
+1667137750 source:c:\users\facun\onedrive\escritorio\programacion-unlam\ordenamiento - array -c\ordvec.c
+	"ordVec.h"
+
+1667137361 c:\users\facun\onedrive\escritorio\programacion-unlam\ordenamiento - array -c\ordvec.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1667137469 source:c:\users\facun\onedrive\escritorio\programacion-unlam\ordenamiento - array -c\main.c
+	"ordVec.h"
+

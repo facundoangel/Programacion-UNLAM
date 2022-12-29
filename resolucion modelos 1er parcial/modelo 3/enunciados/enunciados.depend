@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1667046377 source:c:\users\facun\onedrive\escritorio\programacion-unlam\resolucion modelos 1er parcial\modelo 3\enunciados\enunciados.c
+	"enunciados.h"
+
+1667043802 c:\users\facun\onedrive\escritorio\programacion-unlam\resolucion modelos 1er parcial\modelo 3\enunciados\enunciados.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

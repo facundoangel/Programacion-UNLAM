@@ -1,0 +1,7 @@
+1|YERBA|10|A|Oficina 1
+2|CAFE|20|B|Oficina 2
+3|CAFE|30|C|Oficina 3
+4|ARROZ|40|B|Oficina 2
+5|CAFE|50|B|Oficina 2
+6|ACEITE|60|A|Oficina 1
+7|ARROZ|70|A|Oficina 1

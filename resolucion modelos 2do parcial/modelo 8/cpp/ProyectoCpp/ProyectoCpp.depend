@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1669141899 source:c:\users\laboratorios\desktop\sanzeliseo44690195\cpp\proyectocpp\main.cpp
+	<iostream>
+	"Class.h"
+
+1669141714 c:\users\laboratorios\desktop\sanzeliseo44690195\cpp\proyectocpp\class.h
+	<iostream>
+
+1669142420 source:c:\users\laboratorios\desktop\sanzeliseo44690195\cpp\proyectocpp\class.cpp
+	<iostream>
+	"Class.h"
+

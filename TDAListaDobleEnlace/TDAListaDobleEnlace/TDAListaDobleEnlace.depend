@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1667788104 source:c:\users\facun\onedrive\escritorio\programacion-unlam\tdalistadobleenlace\tdalistadobleenlace\listadobleenlace.c
+	"ListaDobleEnlace.h"
+
+1667786579 c:\users\facun\onedrive\escritorio\programacion-unlam\tdalistadobleenlace\tdalistadobleenlace\listadobleenlace.h
+	<memory.h>
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1666664686 source:c:\users\facun\onedrive\escritorio\programacion-unlam\tdapilacircular\pilacircular\pilacircular.c
+	<stdbool.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"pilaCircular.h"
+
+1666657397 c:\users\facun\onedrive\escritorio\programacion-unlam\tdapilacircular\pilacircular\pilacircular.h
+	<stdbool.h>
+	<stdlib.h>
+

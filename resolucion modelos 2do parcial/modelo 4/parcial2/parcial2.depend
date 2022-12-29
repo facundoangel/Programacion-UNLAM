@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1668224214 source:c:\users\facun\onedrive\escritorio\programacion-unlam\resolucion modelos 2do parcial\modelo 4\parcial2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"parcial2.h"
+
+1668224309 source:c:\users\facun\onedrive\escritorio\programacion-unlam\resolucion modelos 2do parcial\modelo 4\parcial2\parcial2.c
+	"parcial2.h"
+
+1668217234 c:\users\facun\onedrive\escritorio\programacion-unlam\resolucion modelos 2do parcial\modelo 4\parcial2\parcial2.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../../TDAArbol/TDAArbol/arbol.h"
+
+1668222635 c:\users\facun\onedrive\escritorio\programacion-unlam\tdaarbol\tdaarbol\arbol.h
+	<stdbool.h>
+	<stdio.h>
+	<memory.h>
+	<stdlib.h>
+	<math.h>
+

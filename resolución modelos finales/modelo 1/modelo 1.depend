@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1670381286 source:c:\users\facun\onedrive\escritorio\programacion-unlam-main\resolución modelos finales\modelo 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<memory.h>
+

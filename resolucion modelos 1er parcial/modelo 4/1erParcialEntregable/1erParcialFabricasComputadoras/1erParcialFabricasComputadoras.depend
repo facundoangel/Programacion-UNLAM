@@ -1,0 +1,123 @@
+# depslib dependency file v1.0
+1667169025 source:d:\onedrive - universidad nacional de la matanza\unlam\programacion\2022\2\01-lu-ju-m\examenes\1erparcial\1erparcialentregable\1erparcialfabricascomputadoras\main.c
+	<stdio.h>
+	"../TDALista/TDALista.h"
+	"../Comun/Comun.h"
+	"../Cadena/Cadena.h"
+	"../Archivo/Archivo.h"
+	"../Solucion1erParcialFabricasComputadoras/Solucion1erParcialFabricasComputadoras.h"
+
+1653648805 d:\onedrive - universidad nacional de la matanza\unlam\programacion\2022\2\01-lu-ju-m\examenes\1erparcial\1erparcialentregable\tdalista\tdalista.h
+	"../Comun/Comun.h"
+	"../TDAListaImplDinamica/TDAListaImplDinamica.h"
+	"../TDAListaImplDinamicaDoble/TDAListaImplDinamicaDoble.h"
+
+1653648805 d:\onedrive - universidad nacional de la matanza\unlam\programacion\2022\2\01-lu-ju-m\examenes\1erparcial\1erparcialentregable\comun\comun.h
+
+1653648805 d:\onedrive - universidad nacional de la matanza\unlam\programacion\2022\2\01-lu-ju-m\examenes\1erparcial\1erparcialentregable\tdalistaimpldinamica\tdalistaimpldinamica.h
+	"../Nodo/Nodo.h"
+
+1653648805 d:\onedrive - universidad nacional de la matanza\unlam\programacion\2022\2\01-lu-ju-m\examenes\1erparcial\1erparcialentregable\nodo\nodo.h
+	<stddef.h>
+
+1667144359 d:\onedrive - universidad nacional de la matanza\unlam\programacion\2022\2\01-lu-ju-m\examenes\1erparcial\1erparcialentregable\cadena\cadena.h
+	<stddef.h>
+
+1667144306 d:\onedrive - universidad nacional de la matanza\unlam\programacion\2022\2\01-lu-ju-m\examenes\1erparcial\1erparcialentregable\archivo\archivo.h
+	<stddef.h>
+
+1667145732 d:\onedrive - universidad nacional de la matanza\unlam\programacion\2022\2\01-lu-ju-m\examenes\1erparcial\1erparcialentregable\solucion1erparcialfabricascomputadoras\solucion1erparcialfabricascomputadoras.h
+
+1667169025 source:d:\onedrive - universidad nacional de la matanza\unlam\programacion\2022\2\01_lu_ju_m\examenes\1erparcial\1erparcialentregable\1erparcialfabricascomputadoras\main.c
+	<stdio.h>
+	"../TDALista/TDALista.h"
+	"../Comun/Comun.h"
+	"../Cadena/Cadena.h"
+	"../Archivo/Archivo.h"
+	"../Solucion1erParcialFabricasComputadoras/Solucion1erParcialFabricasComputadoras.h"
+
+1653648805 d:\onedrive - universidad nacional de la matanza\unlam\programacion\2022\2\01_lu_ju_m\examenes\1erparcial\1erparcialentregable\tdalista\tdalista.h
+	"../Comun/Comun.h"
+	"../TDAListaImplDinamica/TDAListaImplDinamica.h"
+	"../TDAListaImplDinamicaDoble/TDAListaImplDinamicaDoble.h"
+
+1653648805 d:\onedrive - universidad nacional de la matanza\unlam\programacion\2022\2\01_lu_ju_m\examenes\1erparcial\1erparcialentregable\comun\comun.h
+
+1653648805 d:\onedrive - universidad nacional de la matanza\unlam\programacion\2022\2\01_lu_ju_m\examenes\1erparcial\1erparcialentregable\tdalistaimpldinamica\tdalistaimpldinamica.h
+	"../Nodo/Nodo.h"
+
+1653648805 d:\onedrive - universidad nacional de la matanza\unlam\programacion\2022\2\01_lu_ju_m\examenes\1erparcial\1erparcialentregable\nodo\nodo.h
+	<stddef.h>
+
+1667144359 d:\onedrive - universidad nacional de la matanza\unlam\programacion\2022\2\01_lu_ju_m\examenes\1erparcial\1erparcialentregable\cadena\cadena.h
+	<stddef.h>
+
+1667144306 d:\onedrive - universidad nacional de la matanza\unlam\programacion\2022\2\01_lu_ju_m\examenes\1erparcial\1erparcialentregable\archivo\archivo.h
+	<stddef.h>
+
+1667145732 d:\onedrive - universidad nacional de la matanza\unlam\programacion\2022\2\01_lu_ju_m\examenes\1erparcial\1erparcialentregable\solucion1erparcialfabricascomputadoras\solucion1erparcialfabricascomputadoras.h
+
+1667357637 source:c:\users\facun\downloads\1erparcialentregable\1erparcialfabricascomputadoras\main.c
+	<stdio.h>
+	<memory.h>
+	<string.h>
+	"../TDALista/TDALista.h"
+	"../Comun/Comun.h"
+	"../Cadena/Cadena.h"
+	"../Archivo/Archivo.h"
+	"../Solucion1erParcialFabricasComputadoras/Solucion1erParcialFabricasComputadoras.h"
+
+1653648805 c:\users\facun\downloads\1erparcialentregable\tdalista\tdalista.h
+	"../Comun/Comun.h"
+	"../TDAListaImplDinamica/TDAListaImplDinamica.h"
+	"../TDAListaImplDinamicaDoble/TDAListaImplDinamicaDoble.h"
+
+1653648805 c:\users\facun\downloads\1erparcialentregable\comun\comun.h
+
+1653648805 c:\users\facun\downloads\1erparcialentregable\tdalistaimpldinamica\tdalistaimpldinamica.h
+	"../Nodo/Nodo.h"
+
+1653648805 c:\users\facun\downloads\1erparcialentregable\nodo\nodo.h
+	<stddef.h>
+
+1667144359 c:\users\facun\downloads\1erparcialentregable\cadena\cadena.h
+	<stddef.h>
+
+1667144306 c:\users\facun\downloads\1erparcialentregable\archivo\archivo.h
+	<stddef.h>
+
+1667145732 c:\users\facun\downloads\1erparcialentregable\solucion1erparcialfabricascomputadoras\solucion1erparcialfabricascomputadoras.h
+
+1669349863 source:c:\users\facun\onedrive\escritorio\programacion-unlam-main\resolucion modelos 1er parcial\modelo 4\1erparcialentregable\1erparcialfabricascomputadoras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<memory.h>
+	<string.h>
+	"../TDALista/TDALista.h"
+	"../Comun/Comun.h"
+	"../Cadena/Cadena.h"
+	"../Archivo/Archivo.h"
+	"../Solucion1erParcialFabricasComputadoras/Solucion1erParcialFabricasComputadoras.h"
+
+1669250063 c:\users\facun\onedrive\escritorio\programacion-unlam-main\resolucion modelos 1er parcial\modelo 4\1erparcialentregable\tdalista\tdalista.h
+	"../Comun/Comun.h"
+	"../TDAListaImplDinamica/TDAListaImplDinamica.h"
+	"../TDAListaImplDinamicaDoble/TDAListaImplDinamicaDoble.h"
+
+1669250063 c:\users\facun\onedrive\escritorio\programacion-unlam-main\resolucion modelos 1er parcial\modelo 4\1erparcialentregable\comun\comun.h
+
+1669250063 c:\users\facun\onedrive\escritorio\programacion-unlam-main\resolucion modelos 1er parcial\modelo 4\1erparcialentregable\tdalistaimpldinamica\tdalistaimpldinamica.h
+	"../Nodo/Nodo.h"
+
+1669250063 c:\users\facun\onedrive\escritorio\programacion-unlam-main\resolucion modelos 1er parcial\modelo 4\1erparcialentregable\nodo\nodo.h
+	<stddef.h>
+
+1669250063 c:\users\facun\onedrive\escritorio\programacion-unlam-main\resolucion modelos 1er parcial\modelo 4\1erparcialentregable\cadena\cadena.h
+	<stddef.h>
+
+1669250063 c:\users\facun\onedrive\escritorio\programacion-unlam-main\resolucion modelos 1er parcial\modelo 4\1erparcialentregable\archivo\archivo.h
+	<stddef.h>
+
+1669250063 c:\users\facun\onedrive\escritorio\programacion-unlam-main\resolucion modelos 1er parcial\modelo 4\1erparcialentregable\solucion1erparcialfabricascomputadoras\solucion1erparcialfabricascomputadoras.h
+

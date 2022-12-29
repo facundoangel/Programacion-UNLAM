@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1666711425 source:c:\users\facun\onedrive\escritorio\programacion-unlam\resolucion modelos 1er parcial\modelo 2\testclasecadenapersona1\main.cpp
+	<iostream>
+	"../ClaseCadenaPersona1/Cadena.h"
+
+1666711364 c:\users\facun\onedrive\escritorio\programacion-unlam\resolucion modelos 1er parcial\modelo 2\clasecadenapersona1\cadena.h
+

@@ -1,0 +1,5 @@
+disp=1;ganancia=0.0100;desplazamiento=2.0000
+disp=2;ganancia=0.0150;desplazamiento=2.0000
+disp=3;ganancia=0.0160;desplazamiento=2.0000
+disp=6;ganancia=0.0150;desplazamiento=2.0000
+disp=9;ganancia=0.0180;desplazamiento=2.0000

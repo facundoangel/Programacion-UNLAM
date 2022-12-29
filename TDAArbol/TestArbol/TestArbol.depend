@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1668139950 source:c:\users\facun\onedrive\escritorio\programacion-unlam\tdaarbol\testarbol\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../TDAArbol/arbol.h"
+
+1668137553 c:\users\facun\onedrive\escritorio\programacion-unlam\tdaarbol\tdaarbol\arbol.h
+	<stdbool.h>
+	<stdio.h>
+	<memory.h>
+	<stdlib.h>
+	<math.h>
+
